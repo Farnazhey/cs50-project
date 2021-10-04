@@ -9,4 +9,5 @@ Stack Technology- • c # • RazorPages • sql server (database backup file na
 Installation- Note: You need 2 Visual Studio and sqlserver software to run the project • 1] refer to the path / folder which project saved on your device. • 2] Run the JunkoShop_01 file using Visual Studio software • 3] Then restore the database backup file sent under the name of Janko in your sqlserver • 4] Then run the project file with the key ctrl + f 5 Note that you are connected to the Internet to download the necessary packages Note: log in to the admin panel with the following detail
 
 username admin: farnazhey
+
 password admin : farnaz123456
